@@ -5,16 +5,16 @@ Use either mac or window
 		part1:  make create_and_test_hash
 		part3:  make spell_check 
 
-	 To delete executables and object file type
+	 To delete executables and object file type:
 		 make clean
 
-	 To run with a given file that is redirected to standard input
-		part1:
+	 To run with a given file that is redirected to standard input:
+		part1 type:
 			linear_hashing, type:	    ./create_and_test_hash words.txt query_words.txt linear
 			quadratic_hashing, type:    ./create_and_test_hash words.txt query_words.txt quadratic
 			double_hashing, type:       ./create_and_test_hash words.txt query_words.txt double
 
-		part3 type:   
+		part3 type:
 			./spell_check document1_short.txt wordsEn.txt
 			./spell_check document1.txt wordsEn.txt
 
