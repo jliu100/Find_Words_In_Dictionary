@@ -1,6 +1,6 @@
-1. I completed all parts of my assignment.  In double_hashing, R is equals to 73
-2. I have encounter Segmentation Fault, but I solved it.  
-3.
+Use either mac or window
+
+1.
 	To compile on terminal for 
 		part1:  make create_and_test_hash
 		part3:  make spell_check 
@@ -18,6 +18,6 @@
 			./spell_check document1_short.txt wordsEn.txt
 			./spell_check document1.txt wordsEn.txt
 
-4.The input txt files: document1, document1_short, query_words, words, wordsEn are included in the directory
+2.The input txt files: document1, document1_short, query_words, words, wordsEn are included in the directory
   The output txt files: no output file is included in the directory
 
